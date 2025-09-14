@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Environmental Engineering, University of Connecticut, 2023
+* B.S. in Chemical Engineerng, Bangladesh University of Engineering & Technology, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023-: Pacific Northwest National Laboratory (PNNL)
+  * Postdoctoral Research Associate
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Pacific Northwest National Laboratory (PNNL)
+  * PhD Intern
+    
+* 2018-2023: University of Connecticut
+  * Graduate Research Assistant
+  * Supervisor: Dr. Maria Chrysochoou
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spectroscopic/Spectrometric analysis: Py/GC-MS, TOF-SIMS, HPLC, SEM, XRD, NMR, XPS
+* Thermal analysis: TGA, DSC
+* Surface area and porosity analysis: BET
+* Wet Chemistry techniques: Sample extractions, titrations, and aqueous phase manipulation
+* Experimental design: Extensive experience designing and leading lab experiments for environmental samples
+*  Scientific Visualization: Origin, Python-Matplotlib
+*  Scientific Computing Languages: Python, Bash scripting
+*  Modeling tools: PHREEQC (geochemical modeling), PFLOTRAN (reactive transport modeling), ASPEN HYSYS (Process Simulation Software)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
