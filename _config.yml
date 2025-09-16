@@ -23,7 +23,7 @@ repository               : "tasneemahmadullah/tasneemahmadullah.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Tasneem Ahmadullah"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher at PNNL. Interested in geochemistry, biogeochemistry, environmental chemistry, reaction kinetics, reactive transport modeling. "
