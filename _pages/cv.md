@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Research interests
+======
+Geochemistry, Biogeochemistry, Emerging Environmental Contaminants, Reactive Transport, Mineral 
+Associated Organic Matter, Reactive Transport & Geochemical Modeling, Geochemical Reaction Kinetics
+
 Education
 ======
 * Ph.D in Environmental Engineering, University of Connecticut, 2023
