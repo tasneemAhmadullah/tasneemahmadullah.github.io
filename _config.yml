@@ -12,11 +12,11 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Tasneem Ahmadullah / Personal Website"
 title_separator          : "-"
 name                     : &name "Tasneem Ahmadullah"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Environmental researcher specializing in soil systems, spectroscopic analysis and geochemical/biogeochemical modeling"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://tasneemahmadullah.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "tasneemahmadullah/tasneemahmadullah.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Tasneem Ahmadullah"
   pronouns         : # example: "she/her"  
-  bio              : "I am a postdoctoral researcher at Pacific Northwest National Laboratory (PNNL) focusing in unraveling the complexities of environmental soil systems. My expertise lies in spectroscopic and spectrometric analysis of soil samples, bridging experimental data with biogeochemical and geochemical modeling to address critical environmental challenges."
+  bio              : "Postdoctoral researcher at PNNL. Interested in geochemistry, biogeochemistry, environmental chemistry, reaction kinetics, reactive transport modeling. "
   location         : "Richland"
   employer         : "Pacific Northwest National Lab"
   uri              : # URL
