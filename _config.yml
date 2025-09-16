@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Tasneem Ahmadullah"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher at PNNL. Interested in geochemistry, biogeochemistry, environmental chemistry, reaction kinetics, reactive transport modeling. "
+  bio              : "Postdoctoral researcher at PNNL. Interested in geochemistry, biogeochemistry, environmental chemistry, reaction kinetics and reactive transport modeling. "
   location         : "Richland"
   employer         : "Pacific Northwest National Lab"
   uri              : # URL
@@ -55,7 +55,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :"https://www.linkedin.com/in/tasneem-ahmadullah/"
 
 
 # Publication Category - The following the list of publication categories and their headings
@@ -208,6 +208,9 @@ collections:
     permalink: /:collection/:path/
   talks:
     output: true
+    permalink: /:collection/:path/
+  news:
+    output: false
     permalink: /:collection/:path/
 
 
