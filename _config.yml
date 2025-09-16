@@ -27,7 +27,7 @@ author:
   name             : "Tasneem Ahmadullah"
   pronouns         : # example: "she/her"  
   bio              : "I am a postdoctoral researcher at Pacific Northwest National Laboratory (PNNL) focusing in unraveling the complexities of environmental soil systems. My expertise lies in spectroscopic and spectrometric analysis of soil samples, bridging experimental data with biogeochemical and geochemical modeling to address critical environmental challenges."
-  location         : "Earth"
+  location         : "Richland"
   employer         : "Pacific Northwest National Lab"
   uri              : # URL
   email            : "tasneem.ahmadullah@pnnl.gov" 
@@ -46,7 +46,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
