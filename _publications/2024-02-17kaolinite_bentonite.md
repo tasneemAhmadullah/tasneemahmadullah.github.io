@@ -2,9 +2,8 @@
 title: "Strength Development and Reaction Kinetics in Lime-Treated Clays"
 collection: publications
 category: conferences
-permalink: https://link.springer.com/article/10.1186/s40703-024-00212-6
 excerpt: 'This study reports on the thermodynamics and kinetics of the cementitious reactions between two pure clay minerals (sodium bentonite and kaolinite) and slaked lime. The optimum moisture content (OMC) for strength development was first investigated for each mineral, through an evaluation of both the proctor compaction curves and the 7-day Unconfined Compressive Strength (UCS) results.'
-date: 2024-02-17
+permalink: https://link.springer.com/article/10.1186/s40703-024-00212-6
 venue: 'Geo-Congress 2022'
 citation: 'Ahmadullah T, Chrysochoou M (2022) Strength development and reaction kinetics in lime-treated clays. Geotechnical Special Publication, 2022-March (GSP 331), 138–147. ASCE'
 ---
