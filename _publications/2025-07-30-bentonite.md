@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 excerpt: "This study presents the first kinetic model to predict the solid and pore solution composition of Na-bentonite clay reacting with slaked lime over a period of 720 days."
 date: 2025-7-30
-permalink: "https://link.springer.com/article/10.1186/s12932-025-00103-4"
+permalink: https://link.springer.com/article/10.1186/s12932-025-00103-4
 venue: 'Geochemical Transactions'
 citation: 'Ahmadullah, T., Chrysochoou, M. Development of a kinetic-thermodynamic model for lime-stabilization of Na-bentonite. Geochem Trans 26, 6 (2025). https://doi.org/10.1186/s12932-025-00103-4.'
 ---
