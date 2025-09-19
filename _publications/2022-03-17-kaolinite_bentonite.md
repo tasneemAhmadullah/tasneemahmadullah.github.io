@@ -4,6 +4,7 @@ collection: publications
 category: conferences
 excerpt: 'This study reports on the thermodynamics and kinetics of the cementitious reactions between two pure clay minerals (sodium bentonite and kaolinite) and slaked lime. The optimum moisture content (OMC) for strength development was first investigated for each mineral, through an evaluation of both the proctor compaction curves and the 7-day Unconfined Compressive Strength (UCS) results.'
 permalink: https://ascelibrary.org/doi/abs/10.1061/9780784484012.014
+date: 2022-03-17
 venue: 'Geo-Congress 2022'
 citation: 'Ahmadullah T, Chrysochoou M (2022) Strength development and reaction kinetics in lime-treated clays. Geotechnical Special Publication, 2022-March (GSP 331), 138–147. ASCE'
 ---
