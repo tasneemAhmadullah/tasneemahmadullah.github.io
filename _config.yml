@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Tasneem Ahmadullah / Personal Website"
+title                    : "Tasneem Ahmadullah"
 title_separator          : "-"
 name                     : &name "Tasneem Ahmadullah"
 description              : &description "Environmental researcher specializing in soil systems, spectroscopic analysis and geochemical/biogeochemical modeling"   # Update this with a general description of your site, this is the default if not overridden by a page
