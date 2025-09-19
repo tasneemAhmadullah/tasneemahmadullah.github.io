@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-1848-3069"
   semantic         : # URL
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -55,7 +55,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         :"https://www.linkedin.com/in/tasneem-ahmadullah/"
+  linkedin         : "https://www.linkedin.com/in/tasneem-ahmadullah/"
 
 
 # Publication Category - The following the list of publication categories and their headings
