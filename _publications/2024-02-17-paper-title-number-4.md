@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "Strength Development and Reaction Kinetics in Lime-Treated Clays"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+permalink: https://ascelibrary.org/doi/abs/10.1061/9780784484012.014
+excerpt: 'This study reports on the thermodynamics and kinetics of the cementitious reactions between two pure clay minerals (sodium bentonite and kaolinite) and slaked lime. The optimum moisture content (OMC) for strength development was first investigated for each mineral, through an evaluation of both the proctor compaction curves and the 7-day Unconfined Compressive Strength (UCS) results.'
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+venue: 'Geo-Congress 2022'
+citation: 'Ahmadullah T, Chrysochoou M (2022) Strength development and reaction kinetics in lime-treated clays. Geotechnical Special Publication, 2022-March (GSP 331), 138–147. ASCE'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract: This study reports on the thermodynamics and kinetics of the cementitious reactions between two pure clay minerals (sodium bentonite and kaolinite) and slaked lime. The optimum moisture content (OMC) for strength development was first investigated for each mineral, through an evaluation of both the proctor compaction curves and the 7-day Unconfined Compressive Strength (UCS) results. Particle size of kaolinite was observed to have little influence on the 7-day UCS of specimens treated with 5% slaked lime or 5% Portland cement. A water content dry of optimum was observed to generate the highest UCS values for two different particles sizes of kaolinite, for both the binders. Conversely, bentonite yielded higher UCS wet of optimum (1.4 times the OMC) for both cement and lime. Long-term strength tests for the lime blends up to 180–360 days showed that bentonite mixed with 8% slaked lime plateaued at 400 kPa after 28 days of curing. The pore solution extract indicated that pH dropped from 13 to 10 within the same time frame, then remained constant. The Thermogravimetric analysis (TGA) confirmed that this trend was associated with a rapid consumption of free lime. Conversely, kaolinite maintained a pH of 13 up to 180 days and free consumption of lime was gradual. The strength increased almost linearly with time in kaolinite, and the rate of increase was in step with the apparent rate of calcium silica hydrate (CSH) formation. Future work includes full pore solution analysis as well as quantitative analysis of the solid with Nuclear Magnetic Resonance (NMR) and X-Ray Diffraction (XRD) to enhance the TGA data. The solid and pore solution data will be combined to obtain a full kinetic quantitative model for the two minerals.
