@@ -2,9 +2,10 @@
 title: "Relationship between strength development and pozzolanic reactions in lime stabilized kaolinite"
 collection: publications
 category: manuscripts
-permalink: "https://link.springer.com/article/10.1186/s40703-024-00212-6"
+excerpt: "This study contributes to the quantitative understanding of kaolinite reactions with lime over two years."
+date: 2024-04-28
+permalink: https://link.springer.com/article/10.1186/s40703-024-00212-6
 venue: 'International Journal of Geo-Engineering'
 citation: "Ahmadullah, T., Chrysochoou, M. Relationship between strength development and pozzolanic reactions in lime stabilized kaolinite. Geo-Engineering 15, 11 (2024). https://doi.org/10.1186/s40703-024-00212-6"
 ---
-
-
+Abstract: This study contributes to the quantitative understanding of kaolinite reactions with lime over two years. Unconfined Compressive Strength (UCS) increased linearly with time, doubling within one year, followed by a 14% decrease. Spectroscopic analysis of the system was performed at ten curing times (0, 7, 28, 90, 120, 180, 270, 360, 540 and 720 days) using Thermogravimetric Analysis (TGA), X-Ray Diffraction (XRD) and 2Nuclear Magnetic Resonance (NMR). Both TGA and XRD showed decrease of portlandite up to 180 days; complete consumption appears to have occurred by 270 days. TGA curves indicated an increase in hydration products in the first 360 days which followed a linear trend with UCS increase. No hydration products were observable by either XRD or NMR during that timeframe and no detectable changes in the kaolinite content either. After 360 days, growth in the hydrates in TGA slowed, and XRD, NMR showed a rapid increase of stratlingite (Ca2Al2SiO7∙8H2O) up to 720 days along with a decrease in the kaolinite signal. Collectively, these results point to two phases in kaolinite dissolution: the first phase, up to about 360 days, is incongruent, characterized by preferential release of Si or Al and portlandite consumption, leading to amorphous Calcium Silicate Hydrate (CSH) or an Afm phase, calcium monosulphoaluminate hydrate (CAH) formation. The second phase involves congruent dissolution and formation of Calcium Alumino Silicate Hydrate (CASH). It is hypothesized that CSH or CAH to CASH transformation occurs in the second stage, causing a disturbance in the cementitious matrix and loss in strength.
