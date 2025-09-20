@@ -27,19 +27,16 @@
       <h3 class="author__name">{{ author.name }}</h3>
 
       <!-- Institution logos section -->
-      <div class="institution-logos">
-        <div class="institution">
+      <div class="institution-logos-row">
+        <a href="https://www.pnnl.gov" title="Pacific Northwest National Laboratory">
           <img src="{{ site.baseurl }}/images/hvEtuCIy_400x400.jpeg" alt="PNNL">
-          <span>Current: PNNL</span>
-        </div>
-        <div class="institution">
+        </a>
+        <a href="https://uconn.edu" title="University of Connecticut">
           <img src="{{ site.baseurl }}/images/University-of-Connecticut-Seal-Logo.png" alt="UConn">
-          <span>Previous: UConn</span>
-        </div>
-        <div class="institution">
+        </a>
+        <a href="https://www.buet.ac.bd" title="Bangladesh University of Engineering and Technology">
           <img src="{{ site.baseurl }}/images/logos/buet-logo.png" alt="BUET">
-          <span>Education: BUET</span>
-        </div>
+        </a>
       </div>
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
