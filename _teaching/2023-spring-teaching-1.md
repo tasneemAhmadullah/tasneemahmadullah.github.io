@@ -1,10 +1,9 @@
 ---
 title: "ENVE 4530-Geoenvironmental Engineering"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course, Spring 2023"
 permalink: https://catalog.uconn.edu/undergraduate/engineering/environmental-engineering-bse/
 venue: "University of Connecticut, Civil & Environmental Engineering"
-date: Spring 2023
 location: "Storrs, USA"
 ---
 
