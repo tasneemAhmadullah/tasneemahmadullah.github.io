@@ -1,21 +1,33 @@
-/* Horizontal social media icons - ENHANCED VERSION */
+/* Horizontal social media icons - COMPACT ROW VERSION */
 .social-icons-horizontal {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap; /* Prevents wrapping to new line */
   justify-content: center;
+  align-items: center;
   margin: 1.5em 0;
+  gap: 15px; /* Small gap between icons */
 }
 
 .social-icons-horizontal a {
   font-size: 2em;  /* LARGER ICON SIZE */
-  margin: 0 0.7em;
   color: #2980b9;  /* BLUE COLOR */
   transition: all 0.2s ease-in-out;
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margin */
+  line-height: 1; /* Tighter line height */
+  display: flex; /* Ensures proper alignment */
+  align-items: center;
+  justify-content: center;
 }
 
 .social-icons-horizontal a:hover {
   color: #3498db;  /* LIGHTER BLUE ON HOVER */
   transform: scale(1.1);  /* SLIGHT GROWTH ON HOVER */
+}
+
+/* Force the container to be wide enough */
+.author__urls-wrapper {
+  width: 100%;
 }
 
 /* Institution logos styling - ENHANCED VERSION */
