@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "CE 3520- Civil Engineering Materials Laboratory"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Sessional"
+permalink: https://catalog.uconn.edu/undergraduate/engineering/environmental-engineering-bse/
+venue: "University of Connecticut, Civil Engineering"
+date: Fall 2021
+location: "Storrs, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I supervised students in the lab class. Graded lab reports.
