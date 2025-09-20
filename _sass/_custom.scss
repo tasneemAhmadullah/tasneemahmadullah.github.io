@@ -1,52 +1,72 @@
-/* Horizontal social media icons */
+/* Horizontal social media icons - ENHANCED VERSION */
 .social-icons-horizontal {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-bottom: 1.5em;
+  margin: 1.5em 0;
 }
 
 .social-icons-horizontal a {
-  font-size: 1.5em;
-  margin: 0 0.5em;
-  color: #494e52;
-  transition: color 0.2s ease-in-out;
+  font-size: 2em;  /* LARGER ICON SIZE */
+  margin: 0 0.7em;
+  color: #2980b9;  /* BLUE COLOR */
+  transition: all 0.2s ease-in-out;
 }
 
 .social-icons-horizontal a:hover {
-  color: #52adc8;
+  color: #3498db;  /* LIGHTER BLUE ON HOVER */
+  transform: scale(1.1);  /* SLIGHT GROWTH ON HOVER */
 }
 
-/* Institution logos styling */
+/* Institution logos styling - ENHANCED VERSION */
 .institution-logos {
   display: flex;
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
-  margin: 1em 0 2em 0;
+  margin: 1.5em 0 2.5em 0;
 }
 
 .institution {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 0 10px 15px 10px;
+  margin: 0 15px 20px 15px;
   text-align: center;
 }
 
 .institution img {
-  height: 40px;
+  height: 50px;  /* LARGER LOGOS */
   width: auto;
-  margin-bottom: 5px;
-  filter: grayscale(30%);
-  transition: filter 0.3s ease;
+  margin-bottom: 7px;
+  filter: grayscale(0%);  /* NO GRAYSCALE BY DEFAULT */
+  transition: all 0.3s ease;
 }
 
 .institution img:hover {
-  filter: grayscale(0%);
+  transform: scale(1.05);  /* SLIGHT GROWTH ON HOVER */
 }
 
 .institution span {
-  font-size: 0.75em;
-  color: #777;
+  font-size: 0.8em;
+  color: #2980b9;  /* BLUE TEXT */
+  font-weight: 500;
+}
+
+/* Additional styling for author section */
+.author__name {
+  color: #2c3e50;  /* DARKER BLUE FOR NAME */
+}
+
+.author__bio {
+  color: #34495e;  /* SLIGHTLY LIGHTER BLUE FOR BIO */
+}
+
+/* Optional: Add a subtle blue accent for links throughout the site */
+a {
+  color: #2980b9;
+}
+
+a:hover {
+  color: #3498db;
 }
