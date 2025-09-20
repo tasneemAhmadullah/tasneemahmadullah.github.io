@@ -1,0 +1,52 @@
+/* Horizontal social media icons */
+.social-icons-horizontal {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 1.5em;
+}
+
+.social-icons-horizontal a {
+  font-size: 1.5em;
+  margin: 0 0.5em;
+  color: #494e52;
+  transition: color 0.2s ease-in-out;
+}
+
+.social-icons-horizontal a:hover {
+  color: #52adc8;
+}
+
+/* Institution logos styling */
+.institution-logos {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 1em 0 2em 0;
+}
+
+.institution {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 10px 15px 10px;
+  text-align: center;
+}
+
+.institution img {
+  height: 40px;
+  width: auto;
+  margin-bottom: 5px;
+  filter: grayscale(30%);
+  transition: filter 0.3s ease;
+}
+
+.institution img:hover {
+  filter: grayscale(0%);
+}
+
+.institution span {
+  font-size: 0.75em;
+  color: #777;
+}
