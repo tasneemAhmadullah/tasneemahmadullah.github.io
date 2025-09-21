@@ -1,118 +1,97 @@
-/* Horizontal social media icons - COMPACT ROW VERSION */
+/* ===============================
+   1. SOCIAL ICONS - COMPACT ROW
+   =============================== */
 .social-icons-horizontal {
-  display: flex;
-  flex-wrap: nowrap; /* Prevents wrapping to new line */
-  justify-content: center;
-  align-items: center;
-  margin: 1.5em 0;
-  gap: 15px; /* Small gap between icons */
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
+  justify-content: center !important;
+  gap: 5px !important; /* Minimal gap between icons */
 }
 
 .social-icons-horizontal a {
-  font-size: 2em;  /* LARGER ICON SIZE */
-  color: #2980b9;  /* BLUE COLOR */
-  transition: all 0.2s ease-in-out;
-  padding: 0; /* Remove padding */
-  margin: 0; /* Remove margin */
-  line-height: 1; /* Tighter line height */
-  display: flex; /* Ensures proper alignment */
-  align-items: center;
-  justify-content: center;
+  font-size: 1.8em !important;
+  color: #2980b9 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  display: flex !important;
+  align-items: center !important;
 }
 
 .social-icons-horizontal a:hover {
-  color: #3498db;  /* LIGHTER BLUE ON HOVER */
-  transform: scale(1.1);  /* SLIGHT GROWTH ON HOVER */
+  color: #3498db !important;
+  transform: scale(1.1) !important;
 }
 
-/* Force the container to be wide enough */
-.author__urls-wrapper {
-  width: 100%;
-}
-
-/* Institution logos styling - ENHANCED VERSION */
-.institution-logos {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  flex-wrap: wrap;
-  margin: 1.5em 0 2.5em 0;
-}
-
-.institution {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 0 15px 20px 15px;
-  text-align: center;
-}
-
-.institution img {
-  height: 50px;  /* LARGER LOGOS */
-  width: auto;
-  margin-bottom: 7px;
-  filter: grayscale(0%);  /* NO GRAYSCALE BY DEFAULT */
-  transition: all 0.3s ease;
-}
-
-.institution img:hover {
-  transform: scale(1.05);  /* SLIGHT GROWTH ON HOVER */
-}
-
-.institution span {
-  font-size: 0.8em;
-  color: #2980b9;  /* BLUE TEXT */
-  font-weight: 500;
-}
-
-/* Optional: Add a subtle blue accent for links throughout the site */
-a {
-  color: #2980b9;
-}
-
-a:hover {
-  color: #3498db;
-}
-/* Institution logos in a single row without text */
+/* ===============================
+   2. INSTITUTION LOGOS - COMPACT ROW
+   =============================== */
 .institution-logos-row {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  margin: 1.5em 0;
-  gap: 25px; /* Space between logos */
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 5px !important; /* Minimal gap between logos */
+  margin: 1em 0 !important;
 }
 
 .institution-logos-row a {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: transform 0.3s ease;
-}
-
-.institution-logos-row a:hover {
-  transform: scale(1.05);
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
 
 .institution-logos-row img {
-  height: 40px; /* Adjust size as needed */
-  width: auto;
-}
-/* Fix for avatar display on mobile */
-.author__avatar {
-  display: block !important; /* Force display */
-  width: 100px !important; /* Set appropriate size */
-  height: auto !important;
-  margin: 0 auto 10px auto !important; /* Center the image */
+  height: 40px !important; /* Consistent height */
+  width: auto !important;
 }
 
+/* ===============================
+   3. PROFILE IMAGE - PRESERVE SIZE
+   =============================== */
+/* Desktop profile image - maintain original size */
+.author__avatar {
+  display: block !important;
+  margin: 0 auto 10px auto !important;
+}
+
+.author__avatar img {
+  width: 150px !important; /* Set this to your preferred size */
+  height: auto !important;
+  border-radius: 50% !important;
+}
+
+/* ===============================
+   4. MOBILE-SPECIFIC ADJUSTMENTS
+   =============================== */
+/* Only apply these changes to mobile devices */
 @media (max-width: 768px) {
-  .author__avatar img {
-    max-width: 100px !important;
-    border-radius: 50% !important;
+  /* Ensure the avatar doesn't disappear on mobile */
+  .author__avatar {
     display: block !important;
+    width: auto !important;
+    margin: 0 auto 15px auto !important;
   }
   
+  .author__avatar img {
+    /* Keep the same size as desktop */
+    width: 150px !important; 
+    height: auto !important;
+    border-radius: 50% !important;
+  }
+  
+  /* Keep social icons and logos compact on mobile */
+  .social-icons-horizontal, .institution-logos-row {
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important; /* Allow horizontal scrolling if needed */
+    justify-content: center !important;
+    width: 100% !important;
+    padding: 5px 0 !important;
+  }
+  
+  /* Center content on mobile */
   .sidebar.sticky {
     display: flex !important;
     flex-direction: column !important;
